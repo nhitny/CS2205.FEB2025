@@ -3,7 +3,7 @@
 <h1 align="center"><b>CS2205.FEB2025 - Scientific Research Methodology</b></h1>
 
 ## Giới thiệu
-* Tên môn học: PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC - Scientific Research Methodology
+* Tên môn học: PHƯƠNG PHÁP NGHIÊN CỨU KHOA HỌC - Scientific Research Methodology
 * Mã lớp: CS2205.FEB2025
 
 ### Giảng viên
